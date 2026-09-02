@@ -1,16 +1,21 @@
-## Hi there 👋
+![Banner](bannar/bannar.png)
 
-<!--
-**swagatamondalahona/swagatamondalahona** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Swagata 👋
 
-Here are some ideas to get you started:
+🚀 Aspiring Full-Stack Developer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### About Me
+- 💻 Diploma in Computer Engineering Student
+- ⚡ Learning Web Development
+- ⚛️ React
+- 📘 TypeScript
+- 🟢 Node.js
+- 🚀 Building projects every day
+
+### Skills
+HTML • CSS • JavaScript • React • TypeScript • Node.js
+
+### Connect With Me
+- 📧 [Email Me](mailto:your-email@gmail.com)
+- LinkedIn
+- Portfolio
