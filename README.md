@@ -17,5 +17,5 @@ HTML • CSS • JavaScript • React • TypeScript • Node.js
 
 ### Connect With Me
 - 📧 [Email Me](mailto:your-swagatamondal682@gmail.com)
-- [LinkedIn](https://www.linkedin.com/in/swagatamondalahona/)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/swagatamondalahona/)
 
