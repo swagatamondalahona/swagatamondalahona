@@ -1,4 +1,4 @@
-![Banner](bannar/bannar.png)
+![Banner](bannar/updatebanner.png)
 
 # Hi, I'm Swagata 👋
 
