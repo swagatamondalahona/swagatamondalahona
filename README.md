@@ -24,7 +24,7 @@ I enjoy learning new technologies, solving programming problems, and turning ide
 <p>
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind" />
 </p>
-### 🛠️ Tools
+### Tools
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,vscode" />
 </p>
