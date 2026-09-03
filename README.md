@@ -21,10 +21,13 @@ I enjoy learning new technologies, solving programming problems, and turning ide
 ## 🛠️ Skills
 
 ### Frontend
+
 <p>
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind" />
 </p>
-### Tools
+
+<h3>🛠️ Tools</h3>
+
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,vscode" />
 </p>
