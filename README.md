@@ -23,7 +23,7 @@
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,vscode" />
 </p>
-## 🌐 Connect With Me
+<h2>🌐 Connect With Me</h2>
 
 <a href="https://www.linkedin.com/in/swagatamondalahona/">
   <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin">
