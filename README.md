@@ -23,14 +23,14 @@
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,vscode" />
 </p>
-
 ## 🌐 Connect With Me
 
-<a href="YOUR_LINKEDIN_URL">
+<a href="https://www.linkedin.com/in/swagatamondalahona/">
   <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin">
 </a>
 
-<a href="YOUR_FACEBOOK_URL">
+<a href="https://www.facebook.com/AhonaMondal.202">
   <img src="https://img.shields.io/badge/Facebook-Profile-blue?style=for-the-badge&logo=facebook">
 </a>
+
 
