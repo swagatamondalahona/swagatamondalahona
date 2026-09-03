@@ -42,10 +42,11 @@ I enjoy learning new technologies, solving programming problems, and turning ide
 </a>
 ## 📊 GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=swagatamondalahona&show_icons=true&theme=tokyonight" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=swagatamondalahona&show_icons=true&theme=tokyonight" height="180" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=swagatamondalahona&theme=tokyonight" height="180" />
+</p>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=swagatamondalahona&theme=tokyonight" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=swagatamondalahona&layout=compact&theme=tokyonight" />
-
-
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=swagatamondalahona&layout=compact&theme=tokyonight" />
+</p>
