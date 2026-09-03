@@ -13,7 +13,22 @@
 - 🚀 Building projects every day
 
 ### Skills
-HTML • CSS • JavaScript • React • TypeScript • Node.js
+## 🛠️ Skills
+
+### Frontend
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind" />
+</p>
+
+### Backend & Database
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql" />
+</p>
+
+### Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,npm" />
+</p>
 
 ### Connect With Me
 - 📧 [Email Me](mailto:your-swagatamondal682@gmail.com)
