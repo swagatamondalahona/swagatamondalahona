@@ -3,14 +3,13 @@
 # Hi, I'm Swagata 👋
 
 🚀 Aspiring Full-Stack Developer
+## 👩‍💻 About Me
 
-### About Me
-- 💻 Diploma in Computer Engineering Student
-- ⚡ Learning Web Development
-- ⚛️ React
-- 📘 TypeScript
-- 🟢 Node.js
-- 🚀 Building projects every day
+I'm an aspiring *Full-Stack Developer* currently pursuing a *Diploma in Computer Engineering*. I’m passionate about building modern, responsive, and user-friendly web applications.
+
+I enjoy learning new technologies, solving programming problems, and turning ideas into real-world projects. I'm continuously improving my development skills through hands-on practice and personal projects.
+
+🚀 Currently, I'm focusing on *JavaScript, TypeScript, React, Tailwind CSS*, and modern web development.
 
 
 ## 🛠️ Skills
