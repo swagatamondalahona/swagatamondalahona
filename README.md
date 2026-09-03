@@ -43,10 +43,5 @@ I enjoy learning new technologies, solving programming problems, and turning ide
 <h2>📊 GitHub Stats</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=swagatamondalahona&show_icons=true&theme=tokyonight" height="180" />
   <img src="https://streak-stats.demolab.com/?user=swagatamondalahona&theme=tokyonight" height="180" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=swagatamondalahona&layout=compact&theme=tokyonight" height="180" />
 </p>
