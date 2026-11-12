@@ -45,3 +45,6 @@ I enjoy learning new technologies, solving programming problems, and turning ide
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=swagatamondalahona&theme=tokyonight" height="180" />
 </p>
+### Most Used Languages
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=swagatamondalahona&layout=compact&theme=tokyonight)
